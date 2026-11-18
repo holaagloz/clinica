@@ -11,8 +11,8 @@ Versiones anteriores: `direccion-de-arte.html` (1) y `direccion-de-arte-2.html` 
    git push -u origin main
    ```
 3. En el repositorio, entra a **Settings → Pages**. En **Source** elige *Deploy from a branch*, luego la rama `main` y la carpeta `/ (root)`, y guarda.
-4. Al cabo de 1 o 2 minutos queda en `https://TU_USUARIO.github.io/propuesta-segnini/`.
-5. Para que WhatsApp muestre la vista previa, cambia en `index.html` la línea `og:image` por la dirección completa: `https://TU_USUARIO.github.io/propuesta-segnini/img/v3/og-imagen.jpg`.
+4. Al cabo de 1 o 2 minutos queda en `https://holaagloz.github.io/clinica/`.
+5. Para que WhatsApp muestre la vista previa, cambia en `index.html` la línea `og:image` por la dirección completa: `https://holaagloz.github.io/clinica/img/v3/og-imagen.jpg`.
 
 ## Por validar
 - Fotos y casos tomados del Instagram del doctor. Hay que confirmar el permiso para usarlos.
